@@ -1,0 +1,13 @@
+{"ts": 1795615500.0, "uid": "C0", "id.orig_h": "192.168.50.66", "id.orig_p": 40000, "id.resp_h": "192.168.50.40", "id.resp_p": 20, "proto": "tcp"}
+{"ts": 1795615501.0, "uid": "C1", "id.orig_h": "192.168.50.66", "id.orig_p": 40001, "id.resp_h": "192.168.50.40", "id.resp_p": 25, "proto": "tcp"}
+{"ts": 1795615502.0, "uid": "C2", "id.orig_h": "192.168.50.66", "id.orig_p": 40002, "id.resp_h": "192.168.50.40", "id.resp_p": 30, "proto": "tcp"}
+{"ts": 1795615503.0, "uid": "C3", "id.orig_h": "192.168.50.66", "id.orig_p": 40003, "id.resp_h": "192.168.50.40", "id.resp_p": 35, "proto": "tcp"}
+{"ts": 1795615504.0, "uid": "C4", "id.orig_h": "192.168.50.66", "id.orig_p": 40004, "id.resp_h": "192.168.50.40", "id.resp_p": 40, "proto": "tcp"}
+{"ts": 1795615505.0, "uid": "C5", "id.orig_h": "192.168.50.66", "id.orig_p": 40005, "id.resp_h": "192.168.50.40", "id.resp_p": 45, "proto": "tcp"}
+{"ts": 1795615506.0, "uid": "C6", "id.orig_h": "192.168.50.66", "id.orig_p": 40006, "id.resp_h": "192.168.50.40", "id.resp_p": 50, "proto": "tcp"}
+{"ts": 1795615507.0, "uid": "C7", "id.orig_h": "192.168.50.66", "id.orig_p": 40007, "id.resp_h": "192.168.50.40", "id.resp_p": 55, "proto": "tcp"}
+{"ts": 1795615508.0, "uid": "C8", "id.orig_h": "192.168.50.66", "id.orig_p": 40008, "id.resp_h": "192.168.50.40", "id.resp_p": 60, "proto": "tcp"}
+{"ts": 1795615509.0, "uid": "C9", "id.orig_h": "192.168.50.66", "id.orig_p": 40009, "id.resp_h": "192.168.50.40", "id.resp_p": 65, "proto": "tcp"}
+{"ts": 1795615510.0, "uid": "C10", "id.orig_h": "192.168.50.66", "id.orig_p": 40010, "id.resp_h": "192.168.50.40", "id.resp_p": 70, "proto": "tcp"}
+{"ts": 1795615511.0, "uid": "C11", "id.orig_h": "192.168.50.66", "id.orig_p": 40011, "id.resp_h": "192.168.50.40", "id.resp_p": 75, "proto": "tcp"}
+{"ts": 1795615600.0, "uid": "N1", "id.orig_h": "192.168.50.10", "id.orig_p": 51000, "id.resp_h": "203.0.113.5", "id.resp_p": 443, "proto": "tcp"}

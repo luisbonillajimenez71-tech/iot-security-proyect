@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.env
+*.log
+*.pcap
+*.pcapng
+eve*.json
+!data/sample/eve.json
+events.json
+data/panaderia/
+data/siglo21/
