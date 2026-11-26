@@ -34,7 +34,7 @@ Cada evento es un diccionario:
 
 Antes de enviar un evento a la IA, revisar `details`: puede contener dominios, URLs u otros datos sensibles.
 
-## Matriz de pruebas (Luis y César)
+## Matriz de pruebas
 Usar `data/sample/casos.csv` como plantilla. Anotar la hora de inicio y fin de cada
 prueba con zona horaria (-04:00). `esperado` es `si` o `no`.
 
