@@ -10,7 +10,7 @@ Con logs reales:
 
     python main.py ruta/eve.json --casos ruta/casos.csv --salida events.json
 
-## Uso desde el dashboard (integrante 4)
+## Uso desde el dashboard 
 
     from core import process
     from core.metrics import summarize
